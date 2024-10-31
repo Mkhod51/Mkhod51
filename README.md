@@ -1,4 +1,7 @@
 ## Hi there 👋
+Pronouns: He/Him
+I am currently working on a Football TicTacToe game
+I am currently learning how to use Tkinter to create a user interface
 
 <!--
 **Mkhod51/Mkhod51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
